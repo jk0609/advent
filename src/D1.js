@@ -1,4 +1,4 @@
-import { dayOneInput } from './input';
+import dayOneInput from './input/D1Input';
 
 const findSumDuo = input => {
   const diffMap = {};

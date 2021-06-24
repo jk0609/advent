@@ -1,4 +1,4 @@
-import { dayTwoInput } from './input';
+import dayTwoInput from './input/D2Input';
 
 const validPasswords = input => {
   let validCount = 0;
